@@ -32,6 +32,7 @@
 - [Eniola Adigun] (https://github.com/L-umen)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Samantha Madderom]
+- [Rama Krishna]
 - [Kern Jacobo](https://github.com/kernpinoy)
 - [Aditya Vijayvargiya](https://github.com/Adityavijayvargiya01)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
