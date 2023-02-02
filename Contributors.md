@@ -13,6 +13,7 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [siya]
+- [Uskamolla]
 - [Bheeshmasena](https://github.com/BheeshmasenaReddy)
 - [ytian]
 - [Pritam Sapkota](https://github.com/pritamsap)
@@ -32,7 +33,6 @@
 - [Eniola Adigun] (https://github.com/L-umen)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Samantha Madderom]
-- [Rama Krishna]
 - [Kern Jacobo](https://github.com/kernpinoy)
 - [Aditya Vijayvargiya](https://github.com/Adityavijayvargiya01)
 - [Shubhankar Singh](https://github.com/shubhankar-mern)
